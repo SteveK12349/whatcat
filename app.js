@@ -18,6 +18,7 @@ var neutralList = require('./neutral.js');
 var sadessList = require('./sadness.js');
 var surpriseList = require('./surprise.js');
 var selfieUrl;
+var steve;
 
 server.listen(port);
 
